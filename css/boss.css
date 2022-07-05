@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#b0c4de;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+#box1{
+	width:100%;
+	height: 270px;
+}
+.logo{
+	width: 100px;
+	height: 60px;
+}
+.wenzi1{
+	width: 350px;
+	height: 40px;
+	margin-left: 80px;
+}
+.wenzi2{
+	width: 530px;
+	height: 30px;
+	margin-left: 90px;
+}
+
+.wenzi3{
+	width: 80px;
+	height: 50px;
+	margin-left: 100px;
+	float: left;
+}
+.wenzi4{
+	width: 170px;
+	height: 50px;
+	float: left;
+	margin-left: 50px;
+}
+.wenzi5{
+	width: 80px;
+	height: 50px;
+	margin-left: 200px;
+	float: left;
+}
+.wenzi6{
+	width: 280px;
+	height: 50px;
+	margin-left: 50px;
+	float: left;
+}
+
+#box2{
+	box-shadow: 0 -2px 2px #1787CD;
+	background-color: #F5F5F5;
+	width: 800px;
+	height: 1800px;
+	margin: auto;
+	margin-top: 40px;
+}
+.bt{
+	text-indent: 38px;
+	padding-top: 30px;
+}
+.sj{
+	text-indent: 32px;
+	font-size: 14px;
+}
+.tup4{
+	padding-top: 50px;
+	padding-left: 200px;
+}
+.name{
+	text-align: center;
+	padding-top: 5px;
+}
+.wenzi7{
+	text-indent: 32px;
+	padding-top: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	line-height: 32px;
+}
+.tup6{
+	padding-top: 25px;
+	padding-left: 150px;
+}
+.name2{
+	text-align: center;
+	padding-top: 5px;
+}
+.wenzi8{
+	text-indent: 32px;
+	padding-top: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+	line-height: 32px;
+}
+.hx{
+	padding-top: 30px;
+}
+.tup5{
+	padding-left: 70px;
+	padding-top: 20px;
+}
+
+.dbdhl{
+	float: right;
+	margin-right: 60px;
+	margin-top: 10px;
+}
